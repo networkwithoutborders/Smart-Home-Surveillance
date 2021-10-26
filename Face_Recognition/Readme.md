@@ -35,7 +35,7 @@ Then the face detection technique detects faces in those photos compares them wi
 
 Sample result obtained on Raspberry Pi 4 Model B:
 
-![Output](https://raw.githubusercontent.com/Kavyapriyakp/Smart-Surveillance/main/Face_Recognition/sample_Output.png)
+![Output](https://raw.githubusercontent.com/Surveillance-NWB/Smart-Home-Surveillance/main/Face_Recognition/sample_Output.png)
 
 ### Reference
 https://robu.in/real-time-face-detection-using-raspberry-pi-connections-and-code/
