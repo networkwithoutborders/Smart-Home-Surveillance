@@ -25,7 +25,7 @@ Every contribution acknowledged, reviewed and added, then & there. Kindly refer 
 
 ## Reach out to the maintainer
 <div align="justify">
-Feel free to communicate any ideas or proposals to the maintainer via [CONTRIBUTING.MD](https://github.com/Surveillance-NWB/Home-Surveillance/blob/main/CONTRIBUTING.md).  Replies are typically given within 24 hours of receiving the email.
+Feel free to communicate any ideas or proposals to the maintainer via mail.  Replies are typically given within 24 hours of receiving the email.
 </div>
 
 
