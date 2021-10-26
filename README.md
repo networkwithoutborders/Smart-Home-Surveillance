@@ -1,6 +1,6 @@
 <h1 align="center"><a name="section_name">Smart-Surveillance</a></h1>
 
-<img width="700" height="250" alt="NWB Poster" src="https://raw.githubusercontent.com/Surveillance-NWB/Smart-Home-Surveillance/main/Project%20Poster.png"  align="justify">
+<img width="700" height="250" alt="NWB Poster" src="https://raw.githubusercontent.com/Surveillance-NWB/Smart-Home-Surveillance/main/Project%20Poster.png"  align="center">
 
 ## Objective
 <div align="justify">
