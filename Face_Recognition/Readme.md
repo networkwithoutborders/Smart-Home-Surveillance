@@ -1,4 +1,4 @@
-# Real-time Face Detection using Raspberry Pi 
+<h1 align="center"><a name="section_name">Real-time Face Detection using Raspberry Pi</a></h1>
 
 ## Introduction
 
