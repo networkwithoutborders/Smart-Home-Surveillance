@@ -19,7 +19,7 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 
 ## Add to the collection!
 <div align="justify">
-Every contribution acknowledged, reviewed and added, then & there. Kindly refer to the [CONTRIBUTING.MD](https://github.com/Surveillance-NWB/Home-Surveillance/blob/main/CONTRIBUTING.md) file for the guidelines for contributing to this repoistory.
+Every contribution acknowledged, reviewed and added, then & there. Kindly refer to the [CONTRIBUTING.MD] (https://github.com/Surveillance-NWB/Home-Surveillance/blob/main/CONTRIBUTING.md) file for the guidelines for contributing to this repoistory.
   </div>
 
 ## Reach out to the maintainer
