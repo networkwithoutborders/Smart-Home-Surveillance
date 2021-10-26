@@ -6,10 +6,10 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 
 ## Table of Contents
 
-| S.No. | Program / Feature  |  Status  | Contributor Details  | Additional Information (if any)  |
+| S.No. | Program / Feature  |  Status  | Contributor Details  | Packages Used  |
 |---|---|---|---|---|
 | 1 | Object / Change Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | - |
-| 2 | Face Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | - |
+| 2 | Face Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | Face Recognition |
 |   |   |   |   |   |
 |   |   |   |   |   |
 
