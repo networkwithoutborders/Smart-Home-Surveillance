@@ -15,7 +15,7 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 |---|---|---|---|---|
 | 1 | Object / Change Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | - |
 | 2 | Face Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | Face Recognition |
-|   |   |   |   |   |
+| 3 | Hand Gesure Detection  |   | [Akash-Ramjyothi](https://github.com/Akash-Ramjyothi)  | Computer Vision  |
 |   |   |   |   |   |
 
 
