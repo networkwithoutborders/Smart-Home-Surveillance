@@ -1,31 +1,45 @@
-<h1 align="center"><a name="section_name">Smart-Surveillance</a></h1>
+<h1 align="center">Person Counter</h1>
 
-<p align="center" width="100%">
-<img width="700" height="250" alt="NWB Poster" src="https://raw.githubusercontent.com/Surveillance-NWB/Smart-Home-Surveillance/main/Project%20Poster.png">
+## Description:
+It is a very quick implementation of counteing number of people in a room using Mobilenet SSD detector.This can help in the Surveillance and especially in covid time where there should not be more than certain amount of people in the room.
+
+## Setup
+To run this project locally:
+Go to the directory where the project is present
+
+Write this in your Command prompt
+```
+$pip -r rquirements.txt
+
+```
+
+Then after this in the command prompt and use this command
+```
+$ python Person_Counter.py
+
+```
+
+## Demo
+![gif](https://github.com/adityamukherjee42/OPENCV-PEOPLE_COUNTER/blob/main/video.gif)
+
+
+## Contributors
+<table>
+<tr align="center">
+
+
+<td>
+Aditya Mukherjee
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/adityamukherjee42"  height="120" alt="Aditya Mukherjee">
 </p>
-
-## Objective
-<div align="justify">
-The aim of this repository is to collect, demonstrate and be a one-stop point for AI / ML / DL / simple lightweight Python programs that can be implemented on a Raspberry Pi 4 (Model 'B') for creating a smarter surveillance system.
-</div>
-
-## Table of Contents
-
-| S.No. | Program / Feature  |  Status  | Contributor Details  | Packages Used  |
-|---|---|---|---|---|
-| 1 | Object / Change Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | - |
-| 2 | Face Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | Face Recognition |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-
-## Add to the collection!
-
-Every contribution acknowledged, reviewed and added, then & there. Kindly refer to the [CONTRIBUTING.MD](https://github.com/Surveillance-NWB/Home-Surveillance/blob/main/CONTRIBUTING.md) file for the guidelines for contributing to this repoistory.
-
-## Reach out to the maintainer
-<div align="justify">
-Feel free to communicate any ideas or proposals to the maintainer via mail.  Replies are typically given within 24 hours of receiving the email.
-</div>
-
-
+<p align="center">
+<a href = "https://github.com/adityamukherjee42"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aditya-mukherjee-817a17190/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+</table>
+</tr>
