@@ -3,6 +3,25 @@
 ## Description:
 It is a very quick implementation of counteing number of people in a room using Mobilenet SSD detector.This can help in the Surveillance and especially in covid time where there should not be more than certain amount of people in the room.
 
+## Table of contents
+* [About the Modules](#About-the-Modules)
+* [Surveillence Usecase](#Surveillence-Usecase)
+* [Setup](#Setup)
+* [Demo](#Demo)
+
+
+## About the Modules:
+The Modules used here mainly are:
+<ul>
+<liOpencv</li>
+<li>imutills</li>
+<li>Numpy</li>
+</ul>
+We make the use of single shot detection algorithim for detection of humans that are present in the room .Single Shot detector like YOLO takes only one shot to detect multiple objects present in an image using multibox.It is significantly faster in speed and high-accuracy object detection algorithm. SSD also fits our requiremnts of high fps and light weight python program 
+
+## Surveillence Usecase:
+During these times of Covid,it is a must to follow the SOP and curb the chain of transmission. In this one of the main Protocols to be followed is Social distancing and not overcrowding any rooms . The Person Counting code  will help us in the Surveillance of weather the room is overcrowded or not and thus keep an eye weather the SOPS are being followed and then curb the spread of COIVD  
+
 ## Setup
 To run this project locally:
 Go to the directory where the project is present
