@@ -13,7 +13,7 @@ while cap.isOpened():
     for (x,y,w,h) in bodies:
         cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,255),5)
         cv2.putText(gray, "Intrusion Detected", (210, 190), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 255), 2)
-        #playsound('alarmsound.mp3')
+        playsound('alarmsound.mp3')
         cv2.imshow("Intrusion Detection System", frame)
     if cv2.waitKey(1)& 0xFF == ord('q'):
         break
