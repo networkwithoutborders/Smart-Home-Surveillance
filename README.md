@@ -1,15 +1,15 @@
-<h1 align="center"><a name="section_name">Smart-Surveillance</a></h1>
+<h1 align="center">Person Counter</h1>
 
-<p align="center" width="100%">
-<img width="700" height="250" alt="NWB Poster" src="https://raw.githubusercontent.com/Surveillance-NWB/Smart-Home-Surveillance/main/Project%20Poster.png">
-</p>
+## Description:
+It is a very quick implementation of counteing number of people in a room using Mobilenet SSD detector.This can help in the Surveillance and especially in covid time where there should not be more than certain amount of people in the room.
 
-## Objective
-<div align="justify">
-The aim of this repository is to collect, demonstrate and be a one-stop point for AI / ML / DL / simple lightweight Python programs that can be implemented on a Raspberry Pi 4 (Model 'B') for creating a smarter surveillance system.
-</div>
+## Table of contents
+* [About the Modules](#About-the-Modules)
+* [Surveillence Usecase](#Surveillence-Usecase)
+* [Setup](#Setup)
+* [Demo](#Demo)
 
-## Table of Contents
+
 
 | S.No. | Program / Feature  |  Status  | Contributor Details  | Packages Used  |
 |---|---|---|---|---|
@@ -18,14 +18,26 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 | 3 | Advanced Eye Tracking |   | [Akash-Ramjyothi](https://github.com/Akash-Ramjyothi) | Eye Tracking |
 |   |   |   |   |   |
 
+## Surveillence Usecase:
+During these times of Covid,it is a must to follow the SOP and curb the chain of transmission. In this one of the main Protocols to be followed is Social distancing and not overcrowding any rooms . The Person Counting code  will help us in the Surveillance of weather the room is overcrowded or not and thus keep an eye weather the SOPS are being followed and then curb the spread of COIVD  
 
-## Add to the collection!
+## Setup
+To run this project locally:
+Go to the directory where the project is present
 
-Every contribution acknowledged, reviewed and added, then & there. Kindly refer to the [CONTRIBUTING.MD](https://github.com/Surveillance-NWB/Home-Surveillance/blob/main/CONTRIBUTING.md) file for the guidelines for contributing to this repoistory.
+Write this in your Command prompt
+```
+$pip -r rquirements.txt
 
-## Reach out to the maintainer
-<div align="justify">
-Feel free to communicate any ideas or proposals to the maintainer via mail.  Replies are typically given within 24 hours of receiving the email.
-</div>
+```
+
+Then after this in the command prompt and use this command
+```
+$ python Person_Counter.py
+
+```
+
+## Demo
+![gif](https://github.com/adityamukherjee42/OPENCV-PEOPLE_COUNTER/blob/main/video.gif)
 
 
