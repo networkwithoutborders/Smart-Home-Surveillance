@@ -19,12 +19,12 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 |  | |   |  | |
 
 ## To Do
-- Log generation with time stamp on entry of known individual (Improvement of face detection module)
-- Smart Lock (Improvement of face detection module)
-- Alert System (Combination of modules 1 & 2 | Improvement of face detection module)
-- Detection of anamolies or unwanted events (New module)
-- Action recognition (New module)
-- Emotion recognition (New module)
+* Log generation with time stamp on entry of known individual (Improvement of face detection module)
+* Smart Lock (Improvement of face detection module)
+* Alert System (Combination of modules 1 & 2 | Improvement of face detection module)
+* Detection of anamolies or unwanted events (New module)
+* Action recognition (New module)
+* Emotion recognition (New module)
 
 ## Add to the collection!
 
