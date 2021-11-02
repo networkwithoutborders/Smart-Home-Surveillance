@@ -16,8 +16,7 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 | 2 | Face Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | Face Recognition |
 | 3 | Person Counter | &#10004;  | [Aditya Mukherjee](https://github.com/adityamukherjee42) | -  |
 | 4 | Intruder Alert  | &#10004;  | [Akash Ramjyothi](https://github.com/Akash-Ramjyothi)  |  - |
-| 5 | Hand Gesure Detection  |   | [Akash-Ramjyothi](https://github.com/Akash-Ramjyothi)  | Computer Vision  |
-=======
+| 5 | Hand Gesure Detection  | &#10004; | [Akash-Ramjyothi](https://github.com/Akash-Ramjyothi)  | Computer Vision  |
 |  | |   |  | |
 
 ## To Do
