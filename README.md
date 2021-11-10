@@ -12,8 +12,8 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 ## Table of Contents
 | S.No. | Program / Feature  |  Status  | Contributor Details  | Packages Used  |
 |---|---|---|---|---|
-| 1 | Object / Change Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | - |
-| 2 | Face Detection  | &#10004;  | [Kavyapriya R](https://github.com/Kavyapriyakp) | Face Recognition |
+| 1 | Object / Change Detection  |   | [Kavyapriya R](https://github.com/Kavyapriyakp) | - |
+| 2 | Face Detection  |   | [Kavyapriya R](https://github.com/Kavyapriyakp) | Face Recognition |
 | 3 | Person Counter |  | [Aditya Mukherjee](https://github.com/adityamukherjee42) | -  |
 | 4 | Intruder Alert  |   | [Akash Ramjyothi](https://github.com/Akash-Ramjyothi)  |  - |
 | 5 | Hand Gesure Detection  | | [Akash-Ramjyothi](https://github.com/Akash-Ramjyothi)  |  |
