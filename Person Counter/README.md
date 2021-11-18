@@ -20,7 +20,7 @@ The Modules used here mainly are:
 We make the use of single shot detection algorithim for detection of humans that are present in the room .Single Shot detector like YOLO takes only one shot to detect multiple objects present in an image using multibox.It is significantly faster in speed and high-accuracy object detection algorithm. SSD also fits our requiremnts of high fps and light weight python program 
 
 ## Surveillence Usecase:
-During these times of Covid,it is a must to follow the SOP and curb the chain of transmission. In this one of the main Protocols to be followed is Social distancing and not overcrowding any rooms . The Person Counting code  will help us in the Surveillance of weather the room is overcrowded or not and thus keep an eye weather the SOPS are being followed and then curb the spread of COIVD  
+During these times of Covid,it is a must to follow the SOP and curb the chain of transmission. In this one of the main Protocols to be followed is Social distancing and not overcrowding any rooms . The Person Counting code  will help us in the Surveillance of weather the room is overcrowded or not and thus keep an eye weather the SOPS are being followed and then curb the spread of COVID  
 
 ## Setup
 To run this project locally:
