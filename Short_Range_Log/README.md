@@ -7,6 +7,7 @@ In this module , the algorithm uses a face recognition system to recognize famil
 * [About the Modules](#About-the-Modules)
 * [Surveillence Usecase](#Surveillence-Usecase)
 * [Setup](#Setup)
+* [Log File Genration](#Log-File-genration)
 * [Demo](#Demo)
 
 
@@ -39,7 +40,7 @@ $ python Log_IN.py
 
 ```
 
-## Log File genration:
+## Log-File-genration:
 Here the log file is in the form of a json file, the log file stores data as a dictionery and the function markattendence,changes the json file according to the name of the person identified 
 Also the Log file contants two properties , first one is Time and the second one is Frq:
 
