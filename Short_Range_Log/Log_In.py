@@ -3,22 +3,19 @@ import numpy as np
 import face_recognition
 import os
 from datetime import datetime
-import pickle
+import json
 
 def markAttendance(name):
-    with open('Log.csv', 'r+') as f:
-        myDataList = f.readlines()
-        nameList = []
-        for line in myDataList:
-            entry = line.split(',')
-            if entry[0]=='':
-                continue
-            else:
-                nameList.append(entry[0])
-        if name not in nameList:
-            now = datetime.now()
-            dtString = now.strftime('%H:%M:%S')
-            f.writelines(f'\n{name},{dtString}')
+    now = datetime.now()
+    dtString = now.strftime('%H:%M:%S')
+    with open('Log.json', "r") as jsonFile:
+        data = json.load(jsonFile)
+    if name in data.keys():
+        data[str(name)]={"Time":f'{dtString}',"Frq":data[str(name)]['Frq']+1}
+    else:
+        data[str(name)]={"Time":f'{dtString}',"Frq":1}
+    with open('Log.json', "w") as jsonFile:
+        json.dump(data, jsonFile)
 
 def take_photo():
     file_name=input("Enter your name : ")
