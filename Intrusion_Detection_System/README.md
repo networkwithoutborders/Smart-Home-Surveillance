@@ -28,7 +28,7 @@ pip3 install playsound
 ```
 - Run the Script, type: 
 ```bash
-python3 main.py
+python3 emotion_recognition.py
 ```
 
 ## 🌐 References Used:
