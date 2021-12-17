@@ -17,6 +17,7 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 | 3 | Person Counter |  | [Aditya Mukherjee](https://github.com/adityamukherjee42) | -  |
 | 4 | Intruder Alert  |   | [Akash Ramjyothi](https://github.com/Akash-Ramjyothi)  |  - |
 | 5 | Hand Gesure Detection  | | [Akash-Ramjyothi](https://github.com/Akash-Ramjyothi)  |  |
+| 6 | Emotion Recognition  | | [Akash-Ramjyothi](https://github.com/Akash-Ramjyothi)  |  |
 |  | |   |  | |
 
 ## To Do
