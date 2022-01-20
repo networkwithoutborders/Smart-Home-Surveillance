@@ -10,14 +10,14 @@ The aim of this repository is to collect, demonstrate and be a one-stop point fo
 </div>
 
 ## Table of Contents
-| S.No. | Program / Feature  |  Status  | Contributor Details  |
-|---|---|---|---|---|
-| 1 | Object / Change Detection  | :heavy_check_mark:  | [Kavyapriya R](https://github.com/Kavyapriyakp) | 
+| S.No. | Program / Feature  |  Status  | Contributor Details  | 
+|---|---|---|---|
+| 1 | Object / Change Detection  | :heavy_check_mark:  | [Kavyapriya R](https://github.com/Kavyapriyakp) |
 | 2 | Face Detection  | :heavy_check_mark:  | [Kavyapriya R](https://github.com/Kavyapriyakp) | 
-| 3 | Person Counter | :heavy_check_mark: | [Aditya Mukherjee](https://github.com/adityamukherjee42) | 
-| 4 | Intruder Alert  | :heavy_check_mark:  | [Akash Ramjyothi](https://github.com/Akash-Ramjyothi)  | 
+| 3 | Person Counter | :heavy_check_mark: | [Aditya Mukherjee](https://github.com/adityamukherjee42) |
+| 4 | Intruder Alert  |  :heavy_check_mark: | [Akash Ramjyothi](https://github.com/Akash-Ramjyothi)  | 
 | 5 | Hand Gesure Detection  |:heavy_check_mark: | [Akash-Ramjyothi](https://github.com/Akash-Ramjyothi)  |  
-|  | |   |  | |
+
 
 ## To Do
 * Log generation with time stamp on entry of known individual (Improvement of face detection module)
