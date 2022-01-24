@@ -57,5 +57,5 @@ The time contains the latest time the person was detected and the frq contains t
 ![gif](https://github.com/adityamukherjee42/Smart-Home-Surveillance/blob/main/Short_Range_Log/training.gif)
 
 #### Testing
-![gif]()
+![gif](https://github.com/adityamukherjee42/Smart-Home-Surveillance/blob/main/Short_Range_Log/identification.gif)
 
