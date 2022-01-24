@@ -54,8 +54,8 @@ The time contains the latest time the person was detected and the frq contains t
 ## Demo
 
 #### Training
-![gif](https://github.com/adityamukherjee42/Short_Rangel_Log/blob/main/training.gif)
+![gif]()
 
 #### Testing
-![gif](https://github.com/adityamukherjee42/Short_Rangel_Log/blob/main/identification.gif)
+![gif]()
 
