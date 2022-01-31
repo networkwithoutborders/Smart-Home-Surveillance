@@ -54,8 +54,8 @@ The time contains the latest time the person was detected and the frq contains t
 ## Demo
 
 #### Training
-![gif](https://github.com/adityamukherjee42/Short_Rangel_Log/blob/main/training.gif)
+![gif](https://github.com/adityamukherjee42/Smart-Home-Surveillance/blob/main/Short_Range_Log/training.gif)
 
 #### Testing
-![gif](https://github.com/adityamukherjee42/Short_Rangel_Log/blob/main/identification.gif)
+![gif](https://github.com/adityamukherjee42/Smart-Home-Surveillance/blob/main/Short_Range_Log/identification.gif)
 
